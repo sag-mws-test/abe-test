@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CONFIG>
+	<CONTEXT alias="system.directory.group.storage">
+		<wm_xt_sysdirgroup DN="cn=Everyone,o=webmethods"
+			UID="Everyone" authLevel="default" creationDate="1533112064139"
+			depth="0" directoryPrincipalID="_{/Everyone}_" directoryServiceName="system"
+			directoryServiceThingID="_{system.directory.service}_"
+			directoryURI="/directory/system/group/cn%3deveryone%2co%3dwebmethods"
+			dn="cn=Everyone,o=webmethods" groupName="Everyone"
+			internalSysThingID="_{dir.everyone.group}_" isVersioned="false"
+			lastModifiedDate="1533112064177" name="Everyone" ownerID="sysadmin"
+			shortID="4" sortID="2" type="1">
+			<relation path="" type="renderer" />
+			<relation path="" type="portlet.pseudo" />
+			<relation path="" type="role.relation" />
+		</wm_xt_sysdirgroup>
+	</CONTEXT>
+</CONFIG>

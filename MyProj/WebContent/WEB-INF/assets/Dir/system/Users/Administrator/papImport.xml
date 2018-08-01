@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CONFIG>
+	<CONTEXT alias="$Directory/system/Users/administrator">
+		<property name="mws.deleteWorkspaceConfirmation" value="true" />
+		<property name="firstName" value="My webMethods Administrator" />
+		<property name="mws.closeAllTabsConfirmation" value="true" />
+		<property name="mws.openLastActiveTab" value="true" />
+		<property name="name" value="administrator" />
+		<property name="pageSize" value="0" />
+		<property name="dn" value="uid=Administrator,ou=People,o=webmethods" />
+		<property name="disabledUntil" value="1533112450652" />
+		<property name="mws.closeOpenTabs" value="false" />
+		<property name="mws.autoSaveWhenNavigating" value="true" />
+		<property name="mws.deletePortletConfirmation" value="true" />
+	</CONTEXT>
+</CONFIG>

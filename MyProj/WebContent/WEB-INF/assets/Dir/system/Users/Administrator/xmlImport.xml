@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CONFIG>
+	<CONTEXT alias="system.directory.user.storage">
+		<wm_xt_sysdiruser DN="uid=Administrator,ou=People,o=webmethods"
+			UID="Administrator" authLevel="default" creationDate="1533112119671"
+			depth="0" directoryPrincipalID="_{/administrator}_"
+			directoryServiceName="system" directoryServiceThingID="_{system.directory.service}_"
+			directoryURI="/directory/system/user/uid%3dadministrator%2cou%3dpeople%2co%3dwebmethods"
+			disabled="false" dn="uid=Administrator,ou=People,o=webmethods"
+			firstName="My webMethods Administrator" fullName="My webMethods Administrator"
+			internalSysThingID="_{fabric.admin.user}_" isVersioned="false"
+			lastModifiedDate="1533112119709" name="administrator" ownerID="sysadmin"
+			password="{HmacSHA256}8b5VQpjh0FIc9H7b0oNpoPVqw2yeMAPr6jrMoRBDn34="
+			passwordValidUntil="-1" salt="-912537293" shortID="3160" sortID="8"
+			type="0">
+			<relation path="" type="renderer" />
+			<relation path="" type="portlet.pseudo" />
+			<relation path="" type="role.relation" />
+		</wm_xt_sysdiruser>
+	</CONTEXT>
+</CONFIG>

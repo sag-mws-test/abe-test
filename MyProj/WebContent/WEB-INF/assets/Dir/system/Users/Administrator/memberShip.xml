@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CONFIG>
+	<CONTEXT alias="$Directory/system/Users/administrator">
+		<membership alias="$Directory/Roles/My webMethods Administrators" />
+		<membership alias="$Directory/Roles/My webMethods Users" />
+	</CONTEXT>
+</CONFIG>
